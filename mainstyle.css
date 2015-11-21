@@ -1,0 +1,42 @@
+body {
+  background: #888888;
+}
+
+.sq {
+  background: #fff;
+  display: inline-block;
+  
+  width: 20px;
+  height: 20px;
+  
+  text-align: center;
+  vertical-align: bottom;
+  padding: 5px;
+  margin: 5px;
+}
+
+.col {
+  margin: 0 10px 0 10px;
+  display: inline-block;
+}
+
+.grp {
+  margin: 10px 0 10px 0;
+}
+
+.highlight {
+  background: green;
+}
+
+.selected {
+  background: orange;
+}
+
+.fixed {
+  background: #bbb;
+  color: #000;
+}
+
+.fixed-high {
+  background: darkgreen;
+}
